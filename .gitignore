@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# 忽略训练中间文件
+*.jpg
+*.png          # 若不需要保留评估图表则添加
+
+# 忽略本地数据集
+/data/
+
+# 编辑器临时文件
+*.tmp
+*.swp
