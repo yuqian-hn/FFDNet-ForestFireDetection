@@ -1,0 +1,5 @@
+YOLO11 summary (fused): 238 layers, 2,582,347 parameters, 0 gradients, 6.3 GFLOPs
+val: Scanning D:\XT\lw\YOLOv11_forest\paper1datasets\PublicDataset1_BoWFireDataset\test\labels.cache... 3747 images,
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 235/235 [
+                   all       3747       4611      0.722      0.601      0.666       0.38
+Speed: 0.1ms preprocess, 0.9ms inference, 0.0ms loss, 0.5ms postprocess per image

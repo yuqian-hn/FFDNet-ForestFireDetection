@@ -1,0 +1,12 @@
+from torch.distributed.optim import \
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 32/32 [00
+                   all       1872       2326      0.739      0.639      0.706      0.391
+Speed: 0.3ms preprocess, 1.3ms inference, 0.0ms loss, 0.5ms postprocess per image
+
+
+
+
+
+ from torch.distributed.optim import \
+Ultralytics 8.3.9 🚀 Python-3.10.14 torch-2.5.1+cu121 CUDA:0 (NVIDIA GeForce RTX 4070, 12282MiB)
+YOLO11-HGNetV2-C3k2-DWR-LSDECD summary (fused): 306 layers, 1,861,216 parameters, 73,856 gradients, 5.7 GFLOPs
