@@ -173,13 +173,13 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# 忽略训练中间文件
+# Training intermediates
 *.jpg
-*.png          # 若不需要保留评估图表则添加
+*.png          # Add this if evaluation charts are not required
 
-# 忽略本地数据集
+# Local datasets
 /data/
 
-# 编辑器临时文件
+# Editor temporaries
 *.tmp
 *.swp
