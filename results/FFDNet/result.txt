@@ -6,7 +6,6 @@ Speed: 0.3ms preprocess, 1.3ms inference, 0.0ms loss, 0.5ms postprocess per imag
 
 
 
-
  from torch.distributed.optim import \
 Ultralytics 8.3.9 🚀 Python-3.10.14 torch-2.5.1+cu121 CUDA:0 (NVIDIA GeForce RTX 4070, 12282MiB)
-YOLO11-HGNetV2-C3k2-DWR-LSDECD summary (fused): 306 layers, 1,861,216 parameters, 73,856 gradients, 5.7 GFLOPs
+FFDNet summary (fused): 306 layers, 1,861,216 parameters, 73,856 gradients, 5.7 GFLOPs
