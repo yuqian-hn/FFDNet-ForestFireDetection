@@ -104,4 +104,4 @@ erasing: 0.4
 crop_fraction: 1.0
 cfg: null
 tracker: botsort.yaml
-save_dir: myfile\stage6\result\yolo11-HGNetV2-C3k2-DWR-LSDECD
+save_dir: myfile\stage6\result\FFDNet
